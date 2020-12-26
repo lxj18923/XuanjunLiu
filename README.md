@@ -5,7 +5,7 @@ Corpus Annotation System:
             Corpus Annotation System is divided into user module and administrator module, 
             with a series of complete functions such as word segmentation, labeling, retrieval, 
             statistics and background management.
-            The front-end uses: React
+            The front-end uses: React.
             The back-end uses: Spring Boot, Spring security, Mybatis, Mybatis-Plus, MySql, Elasticsearch, Redis, Lombok, etc.
 
 Store App-Alipay: 
