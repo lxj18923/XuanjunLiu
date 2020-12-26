@@ -1,0 +1,39 @@
+{
+  "keyword": "",
+  "count": 1,
+  "time": 9,
+  "success": true,
+  "errorMsg": null,
+  "traceId": null,
+  "result": {
+    "id": 1,
+    "phone": "13727072320",
+    "email": "61635380@qq.com",
+    "type": "general",
+    "realName": "潘泽嘉",
+    "address": "珠海市",
+    "mechanism": "北京师范大学珠海分校",
+    "academic": "自然语言处理",
+    "remark": null,
+    "createTime": null,
+    "createUser": null,
+    "updateTime": "2019-02-08T14:54:24.000+0000",
+    "updateUser": null,
+    "roles": [
+      {
+        "role": {
+          "id": 1,
+          "name": "超级管理员"
+        },
+        "selected": false
+      },
+      {
+        "role": {
+          "id": 6,
+          "name": "普通用户"
+        },
+        "selected": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.redisson:redisson-spring-data-20:3.8.2">
+    <CLASSES>
+      <root url="jar://F:/Program Files/Maven/LocalWareHouse/org/redisson/redisson-spring-data-20/3.8.2/redisson-spring-data-20-3.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://F:/Program Files/Maven/LocalWareHouse/org/redisson/redisson-spring-data-20/3.8.2/redisson-spring-data-20-3.8.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://F:/Program Files/Maven/LocalWareHouse/org/redisson/redisson-spring-data-20/3.8.2/redisson-spring-data-20-3.8.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

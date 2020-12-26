@@ -1,0 +1,742 @@
+[
+  {
+    "value": "a",
+    "label": "形容词",
+    "children": [
+      {
+        "value": "a",
+        "label": "形容词"
+      },
+      {
+        "value": "ad",
+        "label": "副形词"
+      },
+      {
+        "value": "ag",
+        "label": "形容词性语素"
+      },
+      {
+        "value": "al",
+        "label": "形容词性惯用语"
+      },
+      {
+        "value": "an",
+        "label": "名形词"
+      }
+    ]
+  },
+  {
+    "value": "b",
+    "label": "区别词",
+    "children": [
+      {
+        "value": "b",
+        "label": "区别词"
+      },
+      {
+        "value": "bg",
+        "label": "区别语素"
+      },
+      {
+        "value": "bl",
+        "label": "区别词性惯用语"
+      }
+    ]
+  },
+  {
+    "value": "c",
+    "label": "连词",
+    "children": [
+      {
+        "value": "c",
+        "label": "连词"
+      },
+      {
+        "value": "cc",
+        "label": "并列连词"
+      },
+      {
+        "value": "dl",
+        "label": "连语"
+      }
+    ]
+  },
+  {
+    "value": "d",
+    "label": "副词",
+    "children": [
+      {
+        "value": "d",
+        "label": "副词"
+      },
+      {
+        "value": "dg",
+        "label": "辄,俱,复之类的副词"
+      }
+    ]
+  },
+  {
+    "value": "e",
+    "label": "叹词",
+    "children": [
+      {
+        "value": "e",
+        "label": "叹词"
+      }
+    ]
+  },
+  {
+    "value": "f",
+    "label": "方位词",
+    "children": [
+      {
+        "value": "f",
+        "label": "方位词"
+      }
+    ]
+  },
+  {
+    "value": "g",
+    "label": "学术词汇",
+    "children": [
+      {
+        "value": "g",
+        "label": "学术词汇"
+      },
+      {
+        "value": "gb",
+        "label": "生物相关词汇"
+      },
+      {
+        "value": "gbc",
+        "label": "生物类别"
+      },
+      {
+        "value": "gc",
+        "label": "化学相关词汇"
+      },
+      {
+        "value": "gg",
+        "label": "地理地质相关词汇"
+      },
+      {
+        "value": "gi",
+        "label": "计算机相关词汇"
+      },
+      {
+        "value": "gm",
+        "label": "数学相关词汇"
+      },
+      {
+        "value": "gp",
+        "label": "物理相关词汇"
+      }
+    ]
+  },
+  {
+    "value": "h",
+    "label": "前缀",
+    "children": [
+      {
+        "value": "h",
+        "label": "前缀"
+      }
+    ]
+  },
+  {
+    "value": "k",
+    "label": "后缀",
+    "children": [
+      {
+        "value": "k",
+        "label": "后缀"
+      }
+    ]
+  },
+  {
+    "value": "i",
+    "label": "成语",
+    "children": [
+      {
+        "value": "i",
+        "label": "成语"
+      }
+    ]
+  },
+  {
+    "value": "j",
+    "label": "简称略语",
+    "children": [
+      {
+        "value": "j",
+        "label": "简称略语"
+      }
+    ]
+  },
+  {
+    "value": "l",
+    "label": "习用语",
+    "children": [
+      {
+        "value": "l",
+        "label": "习用语"
+      }
+    ]
+  },
+  {
+    "value": "m",
+    "label": "数词",
+    "children": [
+      {
+        "value": "m",
+        "label": "数词"
+      },
+      {
+        "value": "mg",
+        "label": "数语素"
+      },
+      {
+        "value": "Mg",
+        "label": "甲乙丙丁之类的数词"
+      },
+      {
+        "value": "mq",
+        "label": "数量词"
+      }
+    ]
+  },
+  {
+    "value": "n",
+    "label": "名词",
+    "children": [
+      {
+        "value": "n",
+        "label": "名词"
+      },
+      {
+        "value": "nb",
+        "label": "生物名"
+      },
+      {
+        "value": "nba",
+        "label": "动物名"
+      },
+      {
+        "value": "nbc",
+        "label": "动物纲目"
+      },
+      {
+        "value": "nbp",
+        "label": "植物名"
+      },
+      {
+        "value": "nf",
+        "label": "食品，比如“薯片”"
+      },
+      {
+        "value": "ng",
+        "label": "名词性语素"
+      },
+      {
+        "value": "nh",
+        "label": "医药疾病等健康相关名词"
+      },
+      {
+        "value": "nhd",
+        "label": "疾病"
+      },
+      {
+        "value": "nhm",
+        "label": "药品"
+      },
+      {
+        "value": "nbc",
+        "label": "机构相关(不是独立机构)"
+      },
+      {
+        "value": "ni",
+        "label": "植物名"
+      },
+      {
+        "value": "nic",
+        "label": "下属机构"
+      },
+      {
+        "value": "nis",
+        "label": "机构后缀"
+      },
+      {
+        "value": "nit",
+        "label": "教育相关机构"
+      },
+      {
+        "value": "nl",
+        "label": "名词性惯用语"
+      },
+      {
+        "value": "nm",
+        "label": "物品名"
+      },
+      {
+        "value": "nmc",
+        "label": "化学品名"
+      },
+      {
+        "value": "nn",
+        "label": "工作相关名词"
+      },
+      {
+        "value": "nnd",
+        "label": "职业"
+      },
+      {
+        "value": "nnt",
+        "label": "职务职称"
+      },
+      {
+        "value": "nr",
+        "label": "人名"
+      },
+      {
+        "value": "nr1",
+        "label": "复姓"
+      },
+      {
+        "value": "nr2",
+        "label": "蒙古姓名"
+      },
+      {
+        "value": "nrf",
+        "label": "音译人名"
+      },
+      {
+        "value": "nrj",
+        "label": "日语人名"
+      },
+      {
+        "value": "ns",
+        "label": "地名"
+      },
+      {
+        "value": "nsf",
+        "label": "音译地名"
+      },
+      {
+        "value": "nt",
+        "label": "机构团体名"
+      },
+      {
+        "value": "ntc",
+        "label": "公司名"
+      },
+      {
+        "value": "ntcb",
+        "label": "银行"
+      },
+      {
+        "value": "ntcf",
+        "label": "工厂"
+      },
+      {
+        "value": "ntch",
+        "label": "酒店宾馆"
+      },
+      {
+        "value": "nth",
+        "label": "医院"
+      },
+      {
+        "value": "nto",
+        "label": "政府机构"
+      },
+      {
+        "value": "nts",
+        "label": "中小学"
+      },
+      {
+        "value": "ntu",
+        "label": "大学"
+      },
+      {
+        "value": "nx",
+        "label": "字母专名"
+      },
+      {
+        "value": "nz",
+        "label": "其他专名"
+      }
+    ]
+  },
+  {
+    "value": "o",
+    "label": "拟声词",
+    "children": [
+      {
+        "value": "o",
+        "label": "拟声词"
+      }
+    ]
+  },
+  {
+    "value": "p",
+    "label": "介词",
+    "children": [
+      {
+        "value": "p",
+        "label": "介词"
+      },
+      {
+        "value": "pba",
+        "label": "介词“把”"
+      },
+      {
+        "value": "pbei",
+        "label": "介词“被”"
+      }
+    ]
+  },
+  {
+    "value": "q",
+    "label": "量词",
+    "children": [
+      {
+        "value": "q",
+        "label": "量词"
+      },
+      {
+        "value": "qg",
+        "label": "量词语素"
+      },
+      {
+        "value": "qt",
+        "label": "时量词时量词"
+      },
+      {
+        "value": "qv",
+        "label": "动量词"
+      }
+    ]
+  },
+  {
+    "value": "r",
+    "label": "代词",
+    "children": [
+      {
+        "value": "r",
+        "label": "代词"
+      },
+      {
+        "value": "rg",
+        "label": "代词性语素"
+      },
+      {
+        "value": "Rg",
+        "label": "古汉语代词性语素"
+      },
+      {
+        "value": "rr",
+        "label": "人称代词"
+      },
+      {
+        "value": "ry",
+        "label": "疑问代词"
+      },
+      {
+        "value": "rys",
+        "label": "处所疑问代词"
+      },
+      {
+        "value": "ryt",
+        "label": "时间疑问代词"
+      },
+      {
+        "value": "ryv",
+        "label": "谓词性疑问代词"
+      },
+      {
+        "value": "rz",
+        "label": "指示代词"
+      },
+      {
+        "value": "rzs",
+        "label": "处所指示代词"
+      },
+      {
+        "value": "rzt",
+        "label": "时间指示代词"
+      },
+      {
+        "value": "rzv",
+        "label": "谓词性指示代词"
+      }
+    ]
+  },
+  {
+    "value": "s",
+    "label": "处所词",
+    "children": [
+      {
+        "value": "s",
+        "label": "处所词"
+      }
+    ]
+  },
+  {
+    "value": "t",
+    "label": "时间词",
+    "children": [
+      {
+        "value": "t",
+        "label": "时间词"
+      },
+      {
+        "value": "tg",
+        "label": "时间词性语素"
+      }
+    ]
+  },
+  {
+    "value": "u",
+    "label": "助词",
+    "children": [
+      {
+        "value": "u",
+        "label": "助词"
+      },
+      {
+        "value": "ude1",
+        "label": "的/底"
+      },
+      {
+        "value": "ude2",
+        "label": "地"
+      },
+      {
+        "value": "ude3",
+        "label": "得"
+      },
+      {
+        "value": "udeng",
+        "label": "等/等等/云云"
+      },
+      {
+        "value": "udh",
+        "label": "的话"
+      },
+      {
+        "value": "ug",
+        "label": "过"
+      },
+      {
+        "value": "ul",
+        "label": "连词"
+      },
+      {
+        "value": "ule",
+        "label": "了/喽"
+      },
+      {
+        "value": "ulian",
+        "label": "连(“连小学生都会”)"
+      },
+      {
+        "value": "uls",
+        "label": "来讲/来说/而言/说来"
+      },
+      {
+        "value": "usuo",
+        "label": "所"
+      },
+      {
+        "value": "uyy",
+        "label": "一样/一般/似的/般"
+      },
+      {
+        "value": "uz",
+        "label": "着"
+      },
+      {
+        "value": "uzhi",
+        "label": "之"
+      }
+    ]
+  },
+  {
+    "value": "v",
+    "label": "动词",
+    "children": [
+      {
+        "value": "v",
+        "label": "动词"
+      },
+      {
+        "value": "vd",
+        "label": "副动词"
+      },
+      {
+        "value": "vf",
+        "label": "趋向动词"
+      },
+      {
+        "value": "vg",
+        "label": "动词性语素"
+      },
+      {
+        "value": "vi",
+        "label": "不及物动词(内动词)"
+      },
+      {
+        "value": "vl",
+        "label": "动词性惯用语"
+      },
+      {
+        "value": "vn",
+        "label": "名动词"
+      },
+      {
+        "value": "vshi",
+        "label": "动词“是”"
+      },
+      {
+        "value": "vx",
+        "label": "形式动词"
+      },
+      {
+        "value": "vyou",
+        "label": "动词“有”"
+      }
+    ]
+  },
+  {
+    "value": "w",
+    "label": "标点符号",
+    "children": [
+      {
+        "value": "w",
+        "label": "标点符号"
+      },
+      {
+        "value": "wb",
+        "label": "百分号千分号，全角：％ ‰ 半角：%"
+      },
+      {
+        "value": "wd",
+        "label": "逗号，全角：， 半角：,"
+      },
+      {
+        "value": "wf",
+        "label": "分号，全角：； 半角： ;"
+      },
+      {
+        "value": "wh",
+        "label": "单位符号，全角：￥ ＄ ￡  °  ℃ 半角：$"
+      },
+      {
+        "value": "wj",
+        "label": "句号，全角：。"
+      },
+      {
+        "value": "wky",
+        "label": "右括号，全角：） 〕  ］ ｝ 》  】 〗 〉 半角： ) ] { >"
+      },
+      {
+        "value": "wkz",
+        "label": "左括号，全角：（ 〔  ［ ｛  《 【 〖 〈 半角：( [ { <"
+      },
+      {
+        "value": "wm",
+        "label": "冒号，全角：： 半角： :"
+      },
+      {
+        "value": "wn",
+        "label": "顿号，全角：、"
+      },
+      {
+        "value": "wp",
+        "label": "破折号，全角：——   －－   ——－   半角：—  —-"
+      },
+      {
+        "value": "ws",
+        "label": "省略号，全角：……  …"
+      },
+      {
+        "value": "wt",
+        "label": "叹号，全角：！"
+      },
+      {
+        "value": "ww",
+        "label": "问号，全角：？"
+      },
+      {
+        "value": "wyy",
+        "label": "右引号，全角：” ’ 』"
+      },
+      {
+        "value": "wyz",
+        "label": "左引号，全角：“ ‘ 『"
+      }
+    ]
+  },
+  {
+    "value": "x",
+    "label": "字符串",
+    "children": [
+      {
+        "value": "x",
+        "label": "字符串"
+      },
+      {
+        "value": "xu",
+        "label": "网址URL"
+      },
+      {
+        "value": "xx",
+        "label": "非语素字"
+      }
+    ]
+  },
+  {
+    "value": "y",
+    "label": "语气词(delete yg)",
+    "children": [
+      {
+        "value": "y",
+        "label": "语气词(delete yg)"
+      },
+      {
+        "value": "yg",
+        "label": "语气语素"
+      }
+    ]
+  },
+  {
+    "value": "z",
+    "label": "状态词",
+    "children": [
+      {
+        "value": "z",
+        "label": "状态词"
+      }
+    ]
+  },
+  {
+    "value": "begin",
+    "label": "仅用于始##始",
+    "children": [
+      {
+        "value": "begin",
+        "label": "仅用于始##始"
+      }
+    ]
+  },
+  {
+    "value": "end",
+    "label": "仅用于终##终",
+    "children": [
+      {
+        "value": "end",
+        "label": "仅用于终##终"
+      }
+    ]
+  }
+]

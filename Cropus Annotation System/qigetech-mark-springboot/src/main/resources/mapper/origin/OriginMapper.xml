@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.qigetech.mark.origin.mapper.OriginMapper">
+    <select id="findOriginByIds" resultType="com.qigetech.mark.origin.entity.Origin">
+        SELECT * from origin
+        WHERE id in
+        <foreach collection="Ids" index="index" item="dramaId" open="(" close=")" separator=",">
+            #{dramaId}
+        </foreach>
+        order by field(id,
+        <foreach item="dramaId" index="index" collection="Ids" separator=",">
+            #{dramaId}
+        </foreach>
+        )
+    </select>
+</mapper>

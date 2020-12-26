@@ -1,0 +1,71 @@
+{
+  "keyword": "",
+  "count": 5,
+  "time": 52,
+  "success": true,
+  "errorMsg": null,
+  "traceId": null,
+  "result": null,
+  "resultList": [
+    {
+      "id": 1,
+      "password": "$2a$10$u/uV75SA.RzQrePm3/Kv1OkQJJfJCezQMUQC97c03qVgGaBLm/JiS",
+      "phone": "13727072320",
+      "email": "61635380@qq.com",
+      "type": "general",
+      "remark": null,
+      "createTime": null,
+      "createUser": null,
+      "updateTime": "2019-02-08T14:54:24.000+0000",
+      "updateUser": null
+    },
+    {
+      "id": 13,
+      "password": "$2a$10$wQsjsWnw4jrv2HOFVuR1zOVKKo0FsPjD60BmIR9noYz/B9lkJMIZm",
+      "phone": "13727072320",
+      "email": "1059249191@qq.com",
+      "type": "general",
+      "remark": null,
+      "createTime": "2018-12-24T00:59:14.000+0000",
+      "createUser": "system",
+      "updateTime": "2019-02-08T14:54:24.000+0000",
+      "updateUser": "system"
+    },
+    {
+      "id": 14,
+      "password": "$2a$10$DV3SuGwrqrhqkIcGgZY6EeHTz/0IJzZh3wDS5rHULxuyvtBoy58ei",
+      "phone": "13727072320",
+      "email": "test@qq.com",
+      "type": "general",
+      "remark": null,
+      "createTime": "2018-12-25T07:20:06.000+0000",
+      "createUser": "system",
+      "updateTime": "2019-02-08T14:54:24.000+0000",
+      "updateUser": "system"
+    },
+    {
+      "id": 16,
+      "password": "$2a$10$6Ken6LhF8hnsQ/AdLEbSa.mhAV/KW4mzrjc4qp4SwsTgsxWTld8LS",
+      "phone": "13727072321",
+      "email": "61635381@qq.com",
+      "type": "general",
+      "remark": null,
+      "createTime": "2019-01-30T00:25:14.000+0000",
+      "createUser": null,
+      "updateTime": "2019-02-08T14:54:24.000+0000",
+      "updateUser": null
+    },
+    {
+      "id": 17,
+      "password": "$2a$10$uZ.bQf/Cs5psnCJFfP5/MO02YRpMoCm8BgfCBquqwwszw75f5fQwm",
+      "phone": "13727072322",
+      "email": "61635382@qq.com",
+      "type": "general",
+      "remark": null,
+      "createTime": "2019-02-08T08:45:05.000+0000",
+      "createUser": "用户操作",
+      "updateTime": "2019-02-08T08:45:05.000+0000",
+      "updateUser": "用户操作"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="alipay-trade-sdk-20161215">
+    <CLASSES>
+      <root url="jar://F:/Program Files/Maven/LocalWareHouse/com/alipay/demo/alipay-trade-sdk-20161215.jar!/" />
+      <root url="jar://F:/Program Files/Maven/LocalWareHouse/com/alipay/api/alipay-sdk-java-3.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,147 @@
+{
+  "keyword": "",
+  "count": 1,
+  "time": 146,
+  "success": true,
+  "errorMsg": null,
+  "traceId": null,
+  "result": {
+    "data": [
+      {
+        "id": 42,
+        "title": "文章数据范围",
+        "key": "article_data_range",
+        "value": "42",
+        "parentId": 0,
+        "resName": "文章数据范围",
+        "resType": "data",
+        "permission": "article_data_range",
+        "url": "user_data_range",
+        "sort": 10,
+        "children": [
+          {
+            "id": 40,
+            "title": "7",
+            "key": "40",
+            "value": "40",
+            "parentId": 42,
+            "resName": "文章",
+            "resType": "data",
+            "permission": "article_data_range",
+            "url": "7",
+            "sort": 10,
+            "children": []
+          },
+          {
+            "id": 43,
+            "title": "14",
+            "key": "43",
+            "value": "43",
+            "parentId": 42,
+            "resName": "文章",
+            "resType": "data",
+            "permission": "article_data_range",
+            "url": "14",
+            "sort": 10,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "title": "用户数据范围",
+        "key": "user_data_range",
+        "value": "44",
+        "parentId": 0,
+        "resName": "用户数据范围",
+        "resType": "data",
+        "permission": "user_data_range",
+        "url": "user_data_range",
+        "sort": 10,
+        "children": [
+          {
+            "id": 45,
+            "title": "15",
+            "key": "45",
+            "value": "45",
+            "parentId": 44,
+            "resName": "用户",
+            "resType": "data",
+            "permission": "user_data_range",
+            "url": "15",
+            "sort": 0,
+            "children": []
+          },
+          {
+            "id": 46,
+            "title": "16",
+            "key": "46",
+            "value": "46",
+            "parentId": 44,
+            "resName": "用户",
+            "resType": "data",
+            "permission": "user_data_range",
+            "url": "16",
+            "sort": 0,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "url": [
+      {
+        "id": 24,
+        "title": "角色管理",
+        "key": "role_manager",
+        "value": "24",
+        "parentId": 0,
+        "resName": "角色管理",
+        "resType": "url",
+        "permission": "role_manager",
+        "url": "user/role/manager",
+        "sort": 10,
+        "children": [
+          {
+            "id": 26,
+            "title": "添加角色",
+            "key": "role_manager_add",
+            "value": "26",
+            "parentId": 24,
+            "resName": "添加角色",
+            "resType": "url",
+            "permission": "role_manager_add",
+            "url": "user/role/add",
+            "sort": 10,
+            "children": []
+          },
+          {
+            "id": 27,
+            "title": "修改角色",
+            "key": "role_manager_update",
+            "value": "27",
+            "parentId": 24,
+            "resName": "修改角色",
+            "resType": "url",
+            "permission": "role_manager_update",
+            "url": "user/role/update",
+            "sort": 10,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "title": "文章管理",
+        "key": "role_manager1",
+        "value": "28",
+        "parentId": 0,
+        "resName": "文章管理",
+        "resType": "url",
+        "permission": "role_manager1",
+        "url": "/me",
+        "sort": 10,
+        "children": []
+      }
+    ]
+  }
+}

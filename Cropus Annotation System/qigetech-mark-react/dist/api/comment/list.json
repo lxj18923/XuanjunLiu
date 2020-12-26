@@ -1,0 +1,57 @@
+{
+  "keyword": "",
+  "count": 1,
+  "time": 270,
+  "success": true,
+  "result": {
+    "records": [
+      {
+        "id": 4,
+        "content": "5",
+        "postDate": "2019-07-08T10:48:21",
+        "originId": 2,
+        "comments": [],
+        "labelResults": []
+      },
+      {
+        "id": 1,
+        "content": "1",
+        "postDate": "2019-07-07T19:44:51",
+        "originId": 1,
+        "comments": [
+          {
+            "content": "3",
+            "username": "panzejia",
+            "postDate": "2019-07-08 10:37:35",
+            "originId": 1
+          },
+          {
+            "content": "4",
+            "username": "panzejia",
+            "postDate": "2019-07-08 10:46:56",
+            "originId": 1
+          }
+        ],
+        "labelResults": [
+          {
+            "markContent": "测试/n 的/a ",
+            "originId": 1,
+            "userId": 1,
+            "username": "panzejia"
+          },
+          {
+            "markContent": "测试的/n ",
+            "originId": 1,
+            "userId": 2643,
+            "username": "liuxuanjun"
+          }
+        ]
+      }
+    ],
+    "total": 2,
+    "size": 10,
+    "current": 1,
+    "optimizeCountSql": true,
+    "isSearchCount": true
+  }
+}

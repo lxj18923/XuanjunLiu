@@ -1,0 +1,18 @@
+{
+  "keyword": "",
+  "count": 1,
+  "time": 115,
+  "success": true,
+  "errorMsg": null,
+  "traceId": null,
+  "result": [
+    {
+      "id": 1,
+      "name": "超级管理员"
+    },
+    {
+      "id": 6,
+      "name": "普通用户"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "keyword": "",
+  "count": 1,
+  "time": 0,
+  "success": true,
+  "errorMsg": null,
+  "traceId": null,
+  "result": {
+    "role": {
+      "id": 6,
+      "name": "普通用户"
+    },
+    "permission": {
+      "select": [
+        24,
+        26,
+        27,
+        28
+      ],
+      "noSelect": [
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "data": {
+        "article_data_range": 40
+      }
+    }
+  }
+}
